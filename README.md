@@ -13,7 +13,7 @@
 ## :rocket: Funcionalidades
 - [x] Criar Usuário
 - [x] Listar Usuários
-- [ ] Registar Presença
+- [X] Registrar Presença
 ---
 
 ##  📥 Configurações e instalações
